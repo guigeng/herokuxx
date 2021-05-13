@@ -34,15 +34,7 @@
 
     "outbounds":
     [
-        {"protocol": "freedom","tag": "direct","settings": {}},
-        {"protocol": "blackhole","tag": "blocked","settings": {}}
-    ],
+        {"protocol": "freedom","tag": "direct","settings": {}}
+    ]
 
-    "routing":
-    {
-        "rules":
-        [
-            {"type": "field","outboundTag": "blocked","domain": ["geosite:category-ads-all"]}
-        ]
-    }
 }
