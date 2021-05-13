@@ -15,7 +15,7 @@
             "description": "XRAY CONFIG",
             "value": "https://raw.githubusercontent.com/guigeng/herokuxx/master/xray.json"
         },
-        "$AUUID": {
+        "AUUID": {
             "description": "vless uuid",
             "value": "5e3ca41c-ed28-44ba-bc4c-f675d0f6bae1"
         }
