@@ -1,5 +1,5 @@
 {
-    "name": "xray-lo-xtls",
+    "name": "herokuxx",
     "description": "only deploy xray xtls-direct on heroku",
     "keywords": ["vmess vless xtls-rprx-direct"],
     "env": {
