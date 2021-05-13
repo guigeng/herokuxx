@@ -9,18 +9,18 @@
         },
         "CONFIGCADDY": {
             "description": "CADDY CONFIG",
-            "value": "https://raw.githubusercontent.com//wenjuhe-sos/heroku-xray-re/master/caddy.json"
+            "value": "https://raw.githubusercontent.com/guigeng/herokuxx/master/caddy.json"
         },
         "CONFIGXRAY": {
             "description": "XRAY CONFIG",
-            "value": "https://raw.githubusercontent.com//wenjuhe-sos/heroku-xray-re/master/xray.json"
+            "value": "https://raw.githubusercontent.com/guigeng/herokuxx/master/xray.json"
         },
         "$AUUID": {
             "description": "vless uuid",
             "value": "5e3ca41c-ed28-44ba-bc4c-f675d0f6bae1"
         }
     },
-    "website": "https://github.com//wenjuhe-sos/heroku-xray-re",
+    "website": "https://github.com/guigeng/herokuxx",
     "repository": "https://github.com/guigeng/herokuxx",
     "stack": "container"
 }
